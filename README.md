@@ -1,0 +1,2 @@
+# rex
+docker init project
